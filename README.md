@@ -1,6 +1,6 @@
 # 🟡 Pacman Game (Python + Pygame)
 
-A classic Pacman game clone built with Python and Pygame. Navigate the maze, collect all the pellets, and avoid the ghosts!
+A classic Pacman game fun project built with Python and Pygame. Navigate the maze, collect all the pellets, and avoid the ghosts!
 
 ## 🎮 Features
 
